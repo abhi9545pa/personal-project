@@ -1,2 +1,2 @@
-# personal-project
-This repository for personal-project
+# personal-project recommender system
+: Here I have recommended 5 movies by selecting one movie from the data base, The recommendation is based on movies-movies similarity where similarity was cosine similarity of the movies after converting movies text data into the bag of words(bow) into vector format.                                                                                                                                                 
